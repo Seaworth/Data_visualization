@@ -8,6 +8,7 @@ Python版本：Python 3.6.3<br>
 ## 1.random_walk
 随机漫步，用Python来生成随机漫步数据，再使用matplotlib以引人瞩目的方式将这些数据呈现出来。随机漫步是这样行走得到的路径：每次行走都完全是随机的，没有明确的方向，结果是由一系列随机决策决定的。你可以这样认为，随机漫步就是蚂蚁在晕头转向的情况下，每次都沿随机的方向前行所经过的路径。
 效果图如下：<br>
+![](http://github.com/Seaworth/Data_visualization/raw/master/random_walk/Figure_1.png)
 
 ## 2.Pygal
 模拟掷两颗骰子D6。<br>
