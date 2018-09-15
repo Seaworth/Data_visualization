@@ -27,7 +27,10 @@ Python版本：Python 3.6.3<br>
 ## 5.Web_API
 可视化将基于来自GitHub的信息，这是一个让程序员能够协作开发项目的网站。我们将使用GitHub的API来请求有关该网站中Python项目的信息，然后使用Pygal生成交互式可视化，以呈现这些项目的受欢迎程度。<br>
 效果图如下：<br>
-
+![](https://github.com/Seaworth/Data_visualization/raw/master/Web_API/Figure_5.png)
+<br>
+因为现在第三方的包更新的比较快，有些以前用的包，现在名称已经发生改变。在程序实际的编写过程中，遇到一些问题。<br>
+详情可参见链接![绘制世界人口地图遇到的两个问题](https://blog.csdn.net/m0_38059875/article/details/82596992)
 
 
 
